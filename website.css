@@ -1,0 +1,33 @@
+.heading{
+    border:solid;
+    display:flex;
+    justify-content:space-around;
+    flex-direction: row;
+}
+
+.grid{
+    border: solid;
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.footer{
+    border:solid;
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-top: 100px;
+}
+
+p{
+text-align: center; 
+font-size: xx-large;
+}
+
+
+
+body{
+    background-color: bisque;
+}
